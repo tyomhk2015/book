@@ -49,7 +49,7 @@ Be clear about what you need, what you want todo, and research about the availab
 
 ### Chapter 3
 
-<i>Explanes about learning a new language.</i>
+<i>Explains about learning a new language.</i>
 
 There is no better way to learn a new language other than making small applications with it. You will more familiar  with the syntax, usage, and effciency of using the new language will get better. Ideal is making a personal project that could be monetized.
 
