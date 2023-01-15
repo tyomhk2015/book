@@ -70,3 +70,7 @@ Though the people who made the programming languages are genius and enginneers, 
 
 The relation of `C` and `C++` is like `Javascript` and `Typescript`, supersets.
 I've learned that `C#` is developed and invested by Microsoft for their needs, window applications. The book taught me that the syntax of `C#` is similar to `Java`, and the next project I am about to participate at beginning of Feburary, it is using C# .NET as backend. The book releived my anxiety and fear of C# and looking forward to participate the next project.
+
+<hr>
+
+ #노마드코더 #북클럽 #노개북

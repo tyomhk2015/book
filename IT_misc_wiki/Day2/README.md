@@ -93,3 +93,8 @@ This credit goes to node.js which enables the javascript to be used other than j
 Never thought of transcompiling `Kotlin` application into `Javascript`. Until now, I thought `Kotlin` was purely for replacing Java applications, or building Android applications.
 
 Have I had to build an Android application, `Kotlin` is the choice for me, because I do have some experience with Java.
+
+
+<hr>
+
+ #노마드코더 #북클럽 #노개북
