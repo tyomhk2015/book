@@ -1,4 +1,4 @@
-<a href="./" rel="noopener noreferrer"><b><< Back</b></a>
+<a href="https://github.com/tyomhk2015/book/tree/main/IT_misc_wiki" rel="noopener noreferrer"><b><< Back</b></a>
 
 # Day 1
 
