@@ -8,7 +8,7 @@ From chapter 6 to 10.
 
 ### Chapter 6
 
-<i>About the mind sets and practices when dealing with errors.</i>
+<b><i>About the mind sets and practices when dealing with errors.</i></b>
 
 `Errors` are treated as something the developers have avoid, but is it?
 
@@ -28,7 +28,7 @@ This habit of resolving errors is one of my skills that I am very proud of. It i
 
 ### Chapter 7
 
-<i>Elaborates on the popularity of `Python`</i>
+<b><i>Elaborates on the popularity of `Python`</i></b>
 
 Never used python yet, and thanks to the book I have gained brief knowledge about it.
 
@@ -61,7 +61,7 @@ I'm hoping to take some project that uses `Python` in 2023.
 
 ### Chapter 8
 
-<i>Explains why `Python` is slower than `C`</i>
+<b><i>Explains why `Python` is slower than `C`</i></b>
 
 ```
   Interprete & Compile
@@ -79,7 +79,7 @@ Frankly speaking, to utilize the time wisely, to be more productive, to manage s
 
 ### Chapter 9
 
-<i>About if Javascript limited only to web developments.</i>
+<b><i>About if Javascript limited only to web developments.</i></b>
 
 Like `Python`, `Javascript` could be utilized in other fields such as machine learning, mobile applications, desktop applications, 3D, AR etc.
 
@@ -88,7 +88,7 @@ This credit goes to node.js which enables the javascript to be used other than j
 
 ### Chapter 10
 
-<i>`Kotlin` is compatible with `Java`</i>
+<b><i>`Kotlin` is compatible with `Java`</i></b>
 
 Never thought of transcompiling `Kotlin` application into `Javascript`. Until now, I thought `Kotlin` was purely for replacing Java applications, or building Android applications.
 
