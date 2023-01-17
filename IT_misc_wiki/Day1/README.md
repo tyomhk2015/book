@@ -6,7 +6,7 @@ From chapter 1 to 5.
 
 ### Chapter 1
 
-<i>Deals with some misconceptions about being a 'developer'.</i>
+<b><i>Deals with some misconceptions about being a 'developer'.</i></b>
 
 ```
 Misconception No.1: 
@@ -38,7 +38,7 @@ For web developers math may be like an ornament, something that is good to have 
 
 ### Chapter 2
 
-<i>Elaborates on topic about the first language to learn.</i>
+<b><i>Elaborates on topic about the first language to learn.</i></b>
 
 Priortizing or clarifiying the thing you want make with programming could help you with choosing the language choice. Perhaps observing the supply and demands of programming market may help you to become wiser when choosing a language.
 
@@ -51,7 +51,7 @@ Be clear about what you need, what you want todo, and research about the availab
 
 ### Chapter 3
 
-<i>Explains about learning a new language.</i>
+<b><i>Explains about learning a new language.</i></b>
 
 There is no better way to learn a new language other than making small applications with it. You will more familiar  with the syntax, usage, and effciency of using the new language will get better. Ideal is making a personal project that could be monetized.
 
@@ -59,14 +59,14 @@ Not sure about features that the language provide? The official documentation co
 
 ### Chapter 4
 
-<i>Tells history or background of the name of languages.</i>
+<b><i>Tells history or background of the name of languages.</i></b>
 
 Though the people who made the programming languages are genius and enginneers, their sense of naming is just like an ordinary person, human nature. Thinking about things that are around them, things they do like personally.
 
 
 ### Chapter 5
 
-<i>Elaborates on topic about languages that have similar names, `C`, `C++`, and `C#`.</i>
+<b><i>Elaborates on topic about languages that have similar names, `C`, `C++`, and `C#`.</i></b>
 
 The relation of `C` and `C++` is like `Javascript` and `Typescript`, supersets.
 I've learned that `C#` is developed and invested by Microsoft for their needs, window applications. The book taught me that the syntax of `C#` is similar to `Java`, and the next project I am about to participate at beginning of Feburary, it is using C# .NET as backend. The book releived my anxiety and fear of C# and looking forward to participate the next project.
