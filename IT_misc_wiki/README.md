@@ -13,6 +13,7 @@
 3. <a href="./Day3" target="_blank" rel="noopener noreferrer">Day 3</a>
 4. <a href="./Day4" target="_blank" rel="noopener noreferrer">Day 4</a>
 5. <a href="./Day5" target="_blank" rel="noopener noreferrer">Day 5</a>
+6. <a href="./Day6" target="_blank" rel="noopener noreferrer">Day 6</a>
 
 
 
