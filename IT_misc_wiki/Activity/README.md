@@ -14,7 +14,7 @@
 
 | Objective   |      Actions      |  Due Date |
 |----------|:-------------:|------:|
-| 1. Improve CS knowledge | Learn C in context of memory  | Until the end pf June |
+| 1. Improve CS knowledge | Learn C in context of memory  | Until the end of June |
 | 2. Take coding tests | Solve 200 leetcode problems | Until the end of December |
 | 3. Double the income | Take two projects | Until the end of December |
 | 4. Deepen React & Next.js skill | Refer documentation and code | Until the  end of June |
