@@ -16,6 +16,9 @@
 6. <a href="./Day6" target="_blank" rel="noopener noreferrer">Day 6</a>
 7. <a href="./Day7" target="_blank" rel="noopener noreferrer">Day 7</a>
 8. <a href="./Day8" target="_blank" rel="noopener noreferrer">Day 8</a>
+9. <a href="./Day9" target="_blank" rel="noopener noreferrer">Day 9</a>
+
+- <a href="./Activity " target="_blank" rel="noopener noreferrer">Activity</a>
 
 
 
